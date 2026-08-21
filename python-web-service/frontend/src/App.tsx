@@ -128,7 +128,7 @@ function App() {
       <DocumentEditorContainerComponent
         id="container"
         ref={editorRef}
-        height="590px"
+        height="100vh"
         serviceUrl="http://127.0.0.1:5000/"
         enableToolbar={true}
         toolbarMode="Ribbon"

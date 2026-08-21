@@ -129,7 +129,7 @@ function App() {
         id="container"
         ref={editorRef}
         height="590px"
-        serviceUrl="https://document.syncfusion.com/web-services/docx-editor/api/documenteditor/"
+        serviceUrl="http://127.0.0.1:5000/"
         enableToolbar={true}
         toolbarMode="Ribbon"
       />
